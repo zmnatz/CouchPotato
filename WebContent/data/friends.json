@@ -1,0 +1,72 @@
+[
+	{
+		"firstName": "Bob",
+		"lastName": 'Smith'
+	},
+	{
+		"firstName": "John",
+		"lastName": 'Doe',
+		movies: [
+			{
+				"title": "300",
+				"year": 2005
+			},
+			{
+				"title": "Above The Law",
+				"year": 2005
+			},
+			{
+				"title": "Alice in Wonderland",
+				"year": 2009
+			},
+			{
+				"title": "Aliens",
+				"year": 1987
+			},
+			{
+				"title": "Avatar",
+				"year": 2009
+			}
+		]
+	},
+	{
+		"firstName": "Jane",
+		"lastName": 'Doe'
+	},
+	{
+		"firstName": "Dave",
+		"lastName": 'Smith'
+	},
+	{
+		"firstName": "James",
+		"lastName": 'Stephens'
+	},
+	{
+		"firstName": "Tom",
+		"lastName": 'Jones'
+	},
+	{
+		"firstName": "Neal",
+		"lastName": 'Diamon'
+	},
+	{
+		"firstName": "James",
+		"lastName": 'Taylor'
+	},
+	{
+		"firstName": "Sally",
+		"lastName": 'Rogers'
+	},
+	{
+		"firstName": "Andre",
+		"lastName": 'Aggassi'
+	},
+	{
+		"firstName": "Bill",
+		"lastName": 'Gates'
+	},
+	{
+		"firstName": "Steve",
+		"lastName": 'Jobs'
+	}
+]
